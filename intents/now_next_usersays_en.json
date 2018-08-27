@@ -1,0 +1,156 @@
+[
+  {
+    "id": "fecf3166-5e75-4597-a357-2c6f8a911973",
+    "data": [
+      {
+        "text": "what class do I have ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "alias": "nownext",
+        "meta": "@nownext",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519807775
+  },
+  {
+    "id": "aec6899e-8943-483f-ae78-042869973ffe",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "alias": "nownext",
+        "meta": "@nownext",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519807775
+  },
+  {
+    "id": "7254bce5-4886-47c6-a713-c82edfa31d93",
+    "data": [
+      {
+        "text": "What do I have ",
+        "userDefined": false
+      },
+      {
+        "text": "next",
+        "alias": "nownext",
+        "meta": "@nownext",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519807775
+  },
+  {
+    "id": "87aaaf88-f147-4d9c-80f6-c25e06b0c505",
+    "data": [
+      {
+        "text": "What do I have ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "alias": "nownext",
+        "meta": "@nownext",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519807775
+  },
+  {
+    "id": "6894c5e9-2bf6-4537-8713-860553911e61",
+    "data": [
+      {
+        "text": "Tell me what class I have ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "alias": "nownext",
+        "meta": "@nownext",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519807775
+  },
+  {
+    "id": "56d9fbf1-4c44-4eaa-834b-7c2c0ddaf091",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "next",
+        "alias": "nownext",
+        "meta": "@nownext",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519807775
+  },
+  {
+    "id": "bde68665-c571-4b98-9094-fa84283d9e51",
+    "data": [
+      {
+        "text": "what class do I have ",
+        "userDefined": false
+      },
+      {
+        "text": "next",
+        "alias": "nownext",
+        "meta": "@nownext",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519807775
+  }
+]
