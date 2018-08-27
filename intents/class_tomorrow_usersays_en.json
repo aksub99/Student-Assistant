@@ -1,0 +1,502 @@
+[
+  {
+    "id": "e463eabc-0ccc-413f-8737-3c59046dc3b7",
+    "data": [
+      {
+        "text": "Which class do I have at ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519899976
+  },
+  {
+    "id": "f74cf465-68dc-4f1e-b4b5-27917a513fe1",
+    "data": [
+      {
+        "text": "what\u0027s at ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": ":00 ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519899976
+  },
+  {
+    "id": "f0dd4f13-e4ac-4524-b16a-d56502293f71",
+    "data": [
+      {
+        "text": "What do I have ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "evening",
+        "alias": "timeofday",
+        "meta": "@timeofday",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519899976
+  },
+  {
+    "id": "83ec03c0-d470-42d7-b269-83e1d9be266f",
+    "data": [
+      {
+        "text": "What class do I have ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519813472
+  },
+  {
+    "id": "1cbabd6d-4869-49e9-abca-f02913133b66",
+    "data": [
+      {
+        "text": "What do I have ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519813472
+  },
+  {
+    "id": "f5bace18-6c53-47ba-a524-aa1c15c763b0",
+    "data": [
+      {
+        "text": "what do I have at ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "evening",
+        "alias": "timeofday",
+        "meta": "@timeofday",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519899976
+  },
+  {
+    "id": "502a7c3b-ddb5-4f1d-b3c3-391c2a8aa4d2",
+    "data": [
+      {
+        "text": "which class do I have at ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "morning",
+        "alias": "timeofday",
+        "meta": "@timeofday",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519899976
+  },
+  {
+    "id": "29a5a59a-dd16-496f-a43a-41e74f05dccc",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519813472
+  },
+  {
+    "id": "8e488f0a-2025-4f96-86c0-08427ce21334",
+    "data": [
+      {
+        "text": "what do I have ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "evening",
+        "alias": "timeofday",
+        "meta": "@timeofday",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519964420
+  },
+  {
+    "id": "3bec0011-8a42-4b57-9160-f213fa1019bc",
+    "data": [
+      {
+        "text": "What\u0027s at ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "evening",
+        "alias": "timeofday",
+        "meta": "@timeofday",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519899976
+  },
+  {
+    "id": "9e60bc42-3494-43f6-83f1-f5439a005095",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519899976
+  },
+  {
+    "id": "c1e6df78-9b81-4581-9f9c-eb064889be63",
+    "data": [
+      {
+        "text": "what do I have ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519899976
+  },
+  {
+    "id": "e4252797-ba9e-4fc9-b430-b844e64ccde0",
+    "data": [
+      {
+        "text": "What do I have at ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519899976
+  },
+  {
+    "id": "86610010-3c77-4162-a971-5dcbfb4614bd",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": ":00 in the ",
+        "userDefined": false
+      },
+      {
+        "text": "morning",
+        "alias": "timeofday",
+        "meta": "@timeofday",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519899976
+  },
+  {
+    "id": "e4d16516-0250-4f14-83fb-b3fe72cd720e",
+    "data": [
+      {
+        "text": "Which class do I have ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519813472
+  }
+]
