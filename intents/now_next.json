@@ -1,0 +1,38 @@
+{
+  "id": "3425ee9b-6d5b-489c-bf41-da2fe67cdc47",
+  "name": "now_next",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "now/next",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b6b44476-5e14-446d-8cee-ca093e80c098",
+          "required": false,
+          "dataType": "@nownext",
+          "name": "nownext",
+          "value": "$nownext",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1519807775,
+  "fallbackIntent": false,
+  "events": []
+}
