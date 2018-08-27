@@ -1,0 +1,66 @@
+{
+  "id": "9a36b449-eb0f-48fd-b19b-73cbf8970e04",
+  "name": "class_tomorrow",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "class/tomorrow",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "847be33c-0171-4bc1-8905-4eeec2c67f57",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        },
+        {
+          "id": "4fb99f93-c618-4b9b-a715-b6c95e4290b7",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please specify the time."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "d4bffef6-38e2-4ea4-9b3b-ba42edd11eb0",
+          "required": true,
+          "dataType": "@timeofday",
+          "name": "timeofday",
+          "value": "$timeofday",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please specify if the time is in the morning or evening."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1519964420,
+  "fallbackIntent": false,
+  "events": []
+}
