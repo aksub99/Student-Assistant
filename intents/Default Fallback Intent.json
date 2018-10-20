@@ -14,16 +14,14 @@
           "type": 0,
           "lang": "en",
           "speech": [
-            "I didn\u0027t get that. Can you say it again?",
-            "I missed what you said. Say it again?",
+            "I didn\u0027t get that, could you repeat that?",
+            "I missed what you said, please repeat yourself",
             "Sorry, could you say that again?",
-            "Sorry, can you say that again?",
-            "Can you say that again?",
             "Sorry, I didn\u0027t get that.",
             "Sorry, what was that?",
-            "One more time?",
-            "What was that?",
-            "Say that again?",
+            "One more time please",
+            "What was that again?",
+            "I'm not sure I heard that right, give it another try?",
             "I didn\u0027t get that.",
             "I missed that."
           ]
