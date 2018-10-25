@@ -235,7 +235,7 @@
         "userDefined": false
       },
       {
-        "text": "morning",
+        "text": "evening",
         "alias": "timeofday",
         "meta": "@timeofday",
         "userDefined": true
