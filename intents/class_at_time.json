@@ -32,7 +32,7 @@
           "prompts": [
             {
               "lang": "en",
-              "value": "Is the time specified is in the morning or evening?"
+              "value": "Is the time specified in the morning or in the evening?"
             }
           ],
           "isList": false
